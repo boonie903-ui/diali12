@@ -1,0 +1,6 @@
+{
+  "name": "Thiên Hà Tri Thức - Thám Hiểm & Đấu Trường Trí Tuệ",
+  "description": "Nền tảng học tập & đố vui thám hiểm đa tầng: Việt Nam, Trái Đất, Vũ Trụ, đấu trường đối kháng và ôn tập chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
